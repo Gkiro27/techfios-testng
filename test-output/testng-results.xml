@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12479" started-at="2020-07-09T04:04:17 CDT" finished-at="2020-07-09T04:04:30 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12479" started-at="2020-07-09T04:04:17 CDT" finished-at="2020-07-09T04:04:30 CDT">
+      <class name="test.NewDepositTest">
+        <test-method status="PASS" signature="lauchBrowser()[pri:0, instance:test.NewDepositTest@7494e528]" name="lauchBrowser" is-config="true" duration-ms="3489" started-at="2020-07-09T04:04:17 CDT" finished-at="2020-07-09T04:04:21 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method status="PASS" signature="userShouldBeAbleToAddDeposit()[pri:0, instance:test.NewDepositTest@7494e528]" name="userShouldBeAbleToAddDeposit" duration-ms="8336" started-at="2020-07-09T04:04:21 CDT" finished-at="2020-07-09T04:04:29 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToAddDeposit -->
+        <test-method status="PASS" signature="closeEverything()[pri:0, instance:test.NewDepositTest@7494e528]" name="closeEverything" is-config="true" duration-ms="621" started-at="2020-07-09T04:04:29 CDT" finished-at="2020-07-09T04:04:29 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeEverything -->
+      </class> <!-- test.NewDepositTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
